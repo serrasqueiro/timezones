@@ -1,0 +1,1 @@
+rsync -r -W -a rsync://rsync.iana.org/tz/ tz/
